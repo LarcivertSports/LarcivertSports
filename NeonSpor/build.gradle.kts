@@ -1,9 +1,9 @@
-version = 9
+version = 12
 
 cloudstream {
     authors     = listOf("larcivertsports")
     language    = "tr"
-    description = "(Açılmayan Spor Kanallar İçin VPN Gerekebilir.) NeonSpor eklentisinde BeIN Sports, Tabii Spor, S Sports, Exxen Spor, Smart Spor, Tivibu Spor ve Diğer kanallar mevcuttur."
+    description = "(Açılmayan Spor Kanallar İçin VPN Gerekebilir.) NeonSpor eklentisi."
 
     /**
      * Status int as the following:
