@@ -1,7 +1,7 @@
 version = 12
 
 cloudstream {
-    authors     = listOf("larcivertsports")
+    authors     = listOf("sarapcanagii")
     language    = "tr"
     description = "(Açılmayan Spor Kanallar İçin VPN Gerekebilir.) NeonSpor eklentisi."
 
