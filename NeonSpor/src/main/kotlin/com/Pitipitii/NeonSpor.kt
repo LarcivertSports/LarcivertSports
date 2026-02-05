@@ -9,7 +9,7 @@ import java.io.InputStream
 
 class NeonSpor : MainAPI() {
     override var mainUrl              = "https://raw.githubusercontent.com/LarcivertSports/omercan/refs/heads/main/omarcan.m3u"
-    override var name                 = "NeonSpor"
+    override var name                 = "LarcivertSports"
     override val hasMainPage          = true
     override var lang                 = "tr"
     override val hasQuickSearch       = true
